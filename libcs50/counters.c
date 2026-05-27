@@ -7,7 +7,7 @@
  */
 #include <stdio.h>
 #include <stdbool.h>
-#include "../lib/mem.h"
+#include "mem.h"
 
 /**************** local types ****************/
 typedef struct countersnode{
